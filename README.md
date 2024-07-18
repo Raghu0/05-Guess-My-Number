@@ -1,11 +1,13 @@
 The code provided creates a simple web-based game called "Guess My Number!". Here’s how it works:
 
 **Overview:**
+
 **Objective:** The player has to guess a randomly generated number between 1 and 20.
 **Interface:** The webpage consists of a header with the game title, a button to restart the game, and a hidden number display. The main section includes an input field for the player's guess, a button to submit the guess, and messages displaying the current score, high score, and feedback.
 
 
 **Functionality:**
+
 **Starting the Game:**
 
 When the page loads, a secret number between 1 and 20 is generated.
